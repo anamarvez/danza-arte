@@ -1,0 +1,158 @@
+*{
+	margin:0px;
+	padding: 0px;
+	text-align: center;
+	color:#05172f;
+}
+
+h1{
+	padding: 20px;
+}
+
+.menu {
+	padding: 20px;
+}
+.texto_del_studio {
+	background:url(../img/dance_7.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 945px;
+	height: 285px;
+	padding-top: 45px;
+	padding-left: 20px;
+	color: white;
+	margin:0px;
+}
+
+
+.transparencia {
+	background:rgba(0,0,0,0.4);
+	width: 500px;
+	margin:0px;
+	padding:0px;
+	margin-left: 200px;
+
+}
+
+.studio {
+	color:white;
+	font-size: xx-large;
+	text-align: center;
+	margin: auto
+	padding-bottom: 20px;
+}
+
+.text{
+	color:white;
+	text-align: center;
+	margin: auto;
+	padding: 60px;
+}
+
+.background_2{
+	background: url(../img/cubes.png);
+	background-repeat: repeat;
+	height: 270px;
+	padding: 20px;
+	padding-bottom: 20px;
+
+}
+
+h3{
+	padding-bottom: 20px;
+	padding-top: 40px;
+	color:gray;
+}
+
+hr {
+	width: 200px;
+	margin: auto;
+	padding: 0px;
+}
+.pilar {
+	color:gray;
+	text-align: center;
+	padding-top:20px;
+}
+
+.instructores{
+	padding-top:80px;
+	padding-bottom: 80px;
+}
+
+.profesores_img{
+	max-width: 200px;
+	max-height: 200px;
+	min-width: 200px;
+	min-height: 200px;
+}
+
+.profesores_img, h4, p{
+	text-align: left;
+	padding: 10px;
+	font-size: small;
+}
+
+.otra_frase{
+	background: url(../img/cubes.png);
+	background-repeat: repeat;
+	height: 200px;
+	padding-top: 80px;
+	margin: 50px 0px;
+}
+
+
+.texto_der_contactanos {
+	background:url(../img/shoes_!.jpg);
+	background-repeat: no-repeat;
+	height: 450px;
+	margin-left: 200px;
+	color: #071427;
+}
+
+.contactanos {
+	font-size: xx-large;
+	text-align: left;
+	margin-top: -370px;
+}
+
+form {
+	position: absolute;
+	width: 45px;
+}
+
+input, textarea {
+	width: 400px;
+	text-align: left;
+	margin-bottom:10px;
+	padding:5px;
+
+}
+
+textarea {
+	min-height: 100px;
+	max-height: 200px;
+	max-width: 400px;
+}
+.boton_enviar{
+	background: #071427;
+	color:white;
+	padding:10px;
+	text-align: center;
+	border: none;
+	border-radius:10px;
+}
+
+.boton_enviar:hover{
+	cursor: pointer;
+}
+.footer {
+	background-color: #071427;
+	background-size: cover;
+	height: 60px;
+	color: white;
+	text-align: left;
+	padding-top: 30px;
+	padding-left:20px;
+	font-size: small;
+}

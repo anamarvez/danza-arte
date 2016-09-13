@@ -1,0 +1,208 @@
+*{
+	margin:0px;
+	padding: 0px;
+	text-align: center;
+	color:#05172f;
+}
+
+h1{
+	padding: 20px;
+}
+
+.menu {
+	padding: 20px;
+}
+.texto_der_studio {
+	background:url(../img/dance_1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 945px;
+	height: 285px;
+	padding-top: 45px;
+	padding-left: 20px;
+	color: white;
+}
+
+.studio {
+	color:white;
+	font-size: xx-large;
+	text-align: left;
+	margin-left: 45px;
+	padding-bottom: 20px;
+}
+
+.text{
+	color:white;
+	font-size: xx-small;
+	text-align: left;
+	margin-left: 45px;
+	margin-right:748px;
+	padding-bottom: 20px;
+}
+
+.boton_inscribete{
+	background: #070c27;
+	color:white;
+	padding:10px;
+	text-align: center;
+	border: none;
+	border-radius:5px;
+	width: 100px;
+	margin-left: 38px;
+	font-size: xx-small;
+}
+
+.boton_inscribete:hover{
+	cursor: pointer;
+}
+
+article {
+	font-size: large;
+	margin-left: 205px;
+	margin-right:205px;
+	padding-top:20px;
+
+}
+
+.decoration_1{
+	width: 105px;
+	margin-top: -30px;
+}
+
+.boton_oferta_clases{
+	background: #071427;
+	color:white;
+	padding:10px;
+	text-align: center;
+	border: none;
+	border-radius:10px;
+	width: 380px;
+	margin:auto;
+	margin-bottom: 105px;
+}
+
+.boton_oferta_clases:hover{
+	cursor: pointer;
+}
+
+.nuestros_instructores_img{
+	width: 480px;
+	height: 380px;
+
+}
+
+.nuestros_instructores_txt{
+	position: absolute;
+	background: #071427;
+	color:white;
+	padding:20px;
+	text-align: center;
+	border: none;
+	border-radius:10px;
+	width: 380px;
+	margin:auto;
+	margin-top: 322px;
+	margin-left: 287px;
+
+}
+
+.nuestros_instructores_txt:hover{
+	cursor: pointer;
+
+}
+
+.frase{
+	font-size: xx-large;
+	margin: 0px;
+	padding: 70px;
+	font-style: italic;
+}
+
+.background_visitanos{
+	background: #071427;
+	background-size: cover;
+	height: 370px;
+	padding: 20px;
+}
+.visitanos_txt {
+	color: white;
+	text-align: left;
+	padding-top: 30px;
+}
+
+.texto_visitanos{
+	font-size:x-small;
+	text-align: left;
+	margin-left: 62px;
+	color:white;
+}
+
+.titulo_visitanos{
+	font-size: x-large;
+	text-align: left;
+	margin-left: 62px;
+	color:white;
+	padding:20px 0px;
+
+}
+.direccion {
+	font-size: x-small;
+	text-align: left;
+	margin-left: 62px;
+	color:white;
+}
+
+.texto_der_contactanos {
+	background:url(../img/shoes_!.jpg);
+	background-repeat: no-repeat;
+	height: 450px;
+	margin-left: 200px;
+	color: #071427;
+}
+
+.contactanos {
+	font-size: xx-large;
+	text-align: left;
+	margin-top: -370px;
+}
+
+form {
+	position: absolute;
+	width: 45px;
+}
+
+input, textarea {
+	width: 400px;
+	text-align: left;
+	margin-bottom:10px;
+	padding:5px;
+
+}
+
+textarea {
+	min-height: 100px;
+	max-height: 200px;
+	max-width: 400px;
+}
+.boton_enviar{
+	background: #071427;
+	color:white;
+	padding:10px;
+	text-align: center;
+	border: none;
+	border-radius:10px;
+}
+
+.boton_enviar:hover{
+	cursor: pointer;
+}
+.footer {
+	background-color: #071427;
+	background-size: cover;
+	height: 60px;
+	color: white;
+	text-align: left;
+	padding-top: 30px;
+	padding-left:20px;
+	font-size: small;
+}

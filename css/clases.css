@@ -1,0 +1,124 @@
+*{
+	margin:0px;
+	padding: 0px;
+	text-align: center;
+	color:#05172f;
+}
+
+h1{
+	padding: 20px;
+}
+
+.menu {
+	padding: 20px;
+}
+.texto_del_studio {
+	background:gray;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: auto;
+	height: 850px;
+	color: white;
+	margin:0px;
+}
+
+h3{
+	padding:50px 0px 30px 0px;
+}
+
+.transparencia {
+	background:rgba(0,0,0,0.4);
+	width: 225px;
+	height: 100px;
+	margin-top:111px;
+	padding:0px;
+	margin-left: 34px;
+	position:absolute;
+
+}
+
+.clase{
+	color:white;
+	font-size: small;
+	text-align: center;
+	position: absolute;
+	max-width: 142px;
+	margin-left:102px;
+	margin-top:-236px;
+	
+}
+
+.text {
+	color:white;
+	font-size: small;
+	text-align: center;
+	position: absolute;
+	max-width: 142px;
+	margin-left:74px;
+	margin-top:-206px;
+	
+}
+
+
+.profesores_img{
+	max-width: 250px;
+	max-height: 350px;
+	min-width: 250px;
+	min-height: 350px;
+}
+
+.texto_der_contactanos {
+	background:url(../img/shoes_!.jpg);
+	background-repeat: no-repeat;
+	height: 450px;
+	margin-left: 200px;
+	color: #071427;
+	margin-top: 105px;
+}
+
+.contactanos {
+	font-size: xx-large;
+	text-align: left;
+	margin-top: -370px;
+}
+
+form {
+	position: absolute;
+	width: 45px;
+}
+
+input, textarea {
+	width: 400px;
+	text-align: left;
+	margin-bottom:10px;
+	padding:5px;
+
+}
+
+textarea {
+	min-height: 100px;
+	max-height: 200px;
+	max-width: 400px;
+}
+.boton_enviar{
+	background: #071427;
+	color:white;
+	padding:10px;
+	text-align: center;
+	border: none;
+	border-radius:10px;
+}
+
+.boton_enviar:hover{
+	cursor: pointer;
+}
+.footer {
+	background-color: #071427;
+	background-size: cover;
+	height: 60px;
+	color: white;
+	text-align: left;
+	padding-top: 30px;
+	padding-left:20px;
+	font-size: small;
+}
